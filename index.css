@@ -1,0 +1,29 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+   
+  
+   
+}
+.card{
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+   
+}
+
+
+.btn{
+    background-color: rgb(13, 13, 147);
+    color: white;
+  align-items: center;
+  justify-content: center;
+    height: 50px;
+    display: flex;
+    text-decoration: none;
+}
+
+img{
+    width: 200px;
+}
